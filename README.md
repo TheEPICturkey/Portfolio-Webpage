@@ -1,8 +1,9 @@
 # _Portfolio-Webpage_
 
 #### By _**Brandon Spear**_
+              :blush:
 
-#### _{Brief description of application}_
+#### _This serves as my resume for future inquirers._
 
 ## Technologies Used
 
@@ -27,7 +28,7 @@ _There is no needed steps to run this website._
 
 ## Known Bugs
 
-* _No known bugs_
+* _No known bugs yet_
 
 ## License
 
