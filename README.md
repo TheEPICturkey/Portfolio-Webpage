@@ -19,6 +19,10 @@ _This application is being put in place to serve as my portfolio, so future buis
 ## Setup/Installation Requirements
 
 * _This code depends on Javascript, VSCode and HTML to run properly_
+* Navigate to https://github.com/TheEPICturkey/Portfolio-Webpage_
+* Find repos link for Portfolio-Webpage and copy link
+* Clone into VSCode
+
 
 
 ## Known Bugs
