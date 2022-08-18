@@ -23,7 +23,7 @@ _This application is being put in place to serve as my portfolio, so future buis
 
 ## Known Bugs
 
-* _No known bugs yet_
+* _No known bugs yet. Will update this if anything occures._
 
 ## License
 
